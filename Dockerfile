@@ -1,4 +1,4 @@
-FROM java:8u111-jre-alpine
+FROM 100.125.0.87:20202/cpe/dockerhub-java:8-jre-alpine
 
 WORKDIR /home/apps/
 
