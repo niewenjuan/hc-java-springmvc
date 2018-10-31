@@ -2,7 +2,7 @@ package com.service.cse.controller;
 
 
 import javax.ws.rs.core.MediaType;
-import org.springframework.beans.factory.annotation.Autowired;  #导入
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import org.apache.servicecomb.provider.rest.common.RestSchema;
@@ -14,7 +14,7 @@ import org.apache.servicecomb.provider.rest.common.RestSchema;
 public class Projecti2x6Impl {
 
     @Autowired
-    private Projecti2x6Delegate userProjecti2x6Delegate;
+    private Projecti2x6Delegate userProjecti2x6Delegate;      
 
 
     @RequestMapping(value = "/helloworld",
