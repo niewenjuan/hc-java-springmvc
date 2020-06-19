@@ -1,10 +1,10 @@
-package com.service.cse.controller;
+package com.huawei.cse.controller;
 
 import org.springframework.stereotype.Component;
 
 
 @Component
-public class Projecti2x6Delegate {
+public class Project7w44Delegate {
 
     public String helloworld(String name){
 

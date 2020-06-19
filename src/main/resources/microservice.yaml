@@ -1,6 +1,6 @@
 APPLICATION_ID: springmvc
 service_description:
-  name: projecti2x6
+  name: project7w44
   version: 0.0.1
   properties:
     allowCrossApp: false
